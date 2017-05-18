@@ -182,21 +182,39 @@ main-content {
 h3 {
     color: white;
     font-family: 'Georgia', Times, Times New Roman, serif;
+    font-weight: normal;
+    font-size: 20px;
     border-color: #ccc;
     background-color: #4aaaa5;
     text-align: center;
-    padding: 1px;
+    padding-top: 6px;
     float: left;
-    height: 25px;
+    height: 30px;
     width: 300px;
     z-index: 100;
     position: absolute;
     display: inline-block;
     vertical-align: middle;
+    margin-top: 210px;
+
     /*position: absolute;*/
     /*margin: 20px;*/
 
 }
+
+/*button style*/
+
+button {
+
+background-color: #4aaaa5;
+border: none;
+text-decoration: none;
+padding: 10px;
+color: white;
+
+}
+
+
 /*
 #carban{
 
